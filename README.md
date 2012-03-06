@@ -14,8 +14,8 @@ ruby stat.rb /repopath /pathinrepo
 
 the result will be 
 
-'''
+```
 java            [327285, 2268] #loc, files
 jsp             [84971, 572]
 xml             [5189, 93]
-'''
+```
