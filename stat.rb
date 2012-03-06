@@ -39,3 +39,5 @@ def stat
     p svn.statonetype(ARGV[1], type)
   end
 end
+
+stat 
